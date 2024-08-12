@@ -1,0 +1,19 @@
+body {
+  background-color: #f0f0f0;
+}
+
+.card_container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;  /* Ensure this is set to 100% */
+}
+
+.card {
+  width: 200px;
+  margin: 10px;
+}
+
+.heading {
+  text-align: center;
+}
