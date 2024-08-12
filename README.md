@@ -52,6 +52,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the MIT License.
-```
-
-This version includes badges for React, Telegram API, Netlify, and CSS, making your `README.md` file more visually appealing.
